@@ -12,10 +12,10 @@ Está aplicação foi criada com React JS no curso ["Fábrica de Aplicativos"](h
 ## 🎲 Executar aplicação
 ```bash
 # Clone este repositório
-$ git clone https://github.com/WillianMedeiros14/clone-dropbox-menu.git
+$ git clone https://github.com/WillianMedeiros14/filmaria
 
 # Entre na pasta do projeto.
-$ cd clone-dropbox-menu
+$ cd filmaria
 
 # Instale as dependências
 $ yarn
